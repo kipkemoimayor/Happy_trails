@@ -1,0 +1,42 @@
+.head{
+  text-align: center;
+  font-style: italic;
+  padding: 20px;
+  background-color: #4512;
+  margin: auto;
+  position: relative;
+  top: -7px;
+  color: darkblue;
+}
+.locale{
+  line-height: 20px;
+  padding: 30px;
+  background-color:#717D7E  ;
+  text-align: center;
+  margin: 0;
+  color: white;
+  margin-top: -6px;
+}
+html{
+  background-color: #D7DBDD;
+}
+img{
+  height: 200px;
+  width: auto;
+}
+.tropical{
+  color: #f7325e;
+}
+p.tropical{
+  color:#7dc410;
+  font-family: fantasy;;
+}
+.popular{
+  font-size: 20px;
+  font-style: oblique;
+  color: #876;
+
+}
+p.popular{
+  color: #811;
+}
